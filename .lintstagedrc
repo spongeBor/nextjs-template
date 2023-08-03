@@ -1,0 +1,4 @@
+{
+  "{app,components}/**/*.{ts,tsx}": ["eslint --fix", "prettier --write"],
+  "**/*.{scss,css}": ["prettier --write"]
+}
